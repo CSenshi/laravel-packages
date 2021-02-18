@@ -2,6 +2,11 @@
 
 ### Admin Panel
   * Nova - https://nova.laravel.com
+  
+### Nova Fields
+  * Url Field - https://packagist.org/packages/inspheric/nova-url-field
+  * Advanced Image Field - https://novapackages.com/packages/ctessier/nova-advanced-image-field
+
 
 ### Localization
   * Localization - https://github.com/mcamara/laravel-localization

@@ -27,3 +27,7 @@
 ### Model Ordering
   * Ordering (Model/Eloquent Sortable) - https://github.com/spatie/eloquent-sortable
   * Ordering (Nova) - https://github.com/optimistdigital/nova-sortable
+
+### Blueprints
+ * Blueprint - https://github.com/laravel-shift/blueprint
+ * Nova - https://github.com/Naoray/blueprint-nova-addon

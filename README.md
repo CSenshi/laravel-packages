@@ -35,6 +35,9 @@
   * Debugbar - https://github.com/barryvdh/laravel-debugbar
     
     ``` composer require barryvdh/laravel-debugbar --dev ```
+  * N+1 Query Detector - https://github.com/beyondcode/laravel-query-detector
+
+    ``` composer require beyondcode/laravel-query-detector --dev ```
 
 ### Enum
   * Enum - https://github.com/BenSampo/laravel-enum
